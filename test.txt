@@ -1,0 +1,1 @@
+Hi this is a new file which is to be added to the git from local machine using the command line
