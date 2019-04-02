@@ -1,1 +1,1 @@
-Hi this is a new file which is to be added to the git from local machine using the command line. making some changes to check the diff command
+Hi this is a new file which is to be added to the git from local machine using the command line. making some changes to check the diff command. Adding in another set of line for checking the changes in the git repository
